@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-native-community/masked-view": ">= 0.1.0",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "axios": "^0.21.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native": "^0.64.1",
+    "react-native-gesture-handler": ">= 1.0.0",
+    "react-native-maps": "^0.28.0",
+    "react-native-safe-area-context": ">= 0.6.0",
+    "react-native-screens": ">= 2.0.0-alpha.0 || >= 2.0.0-beta.0 || >= 2.0.0",
+    "react-native-web": "^0.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
